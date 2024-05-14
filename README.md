@@ -29,7 +29,7 @@ This repository contains the logical and physical designs to support comprehensi
 
 Contributors:
 - Hady Ahmed Zahran
-- Omar Ashraf Hamed
+- Omar Ashraf Hamdy
   
 
 ## License
